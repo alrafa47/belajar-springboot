@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MahasiswaapiApplication<mahasiswaapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mahasiswa.MahasiswaapiApplication",
+            "projectName": "mahasiswaapi",
+            "args": ""
+        }
+    ]
+}
